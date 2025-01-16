@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VIGNESHWARANADM
 - 👀 I’m interested in PYTHON
-- 🌱 I’m currently learning B.TECH AI AND DATA SCIENCE
-- 💞️ I’m looking to collaborate on PROJECT MANAGEMENT
+- 🌱 I’m Graduted B.TECH AI AND DATA SCIENCE
+- 💞️ I’m looking for Python and JAVA Developer Jobs
 - 📫 How to reach me -vigneshwaranadm@gmail.com
 
 <!---
