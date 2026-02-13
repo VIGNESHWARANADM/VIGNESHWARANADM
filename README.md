@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VIGNESHWARANADM
 - 👀 I’m interested in PYTHON and JAVA
 - 🌱 I’m Graduted B.TECH AI AND DATA SCIENCE
-- 💞️ I’m looking for Python and JAVA Developer Jobs
+- 💞️ I’m JAVA Developer at InfoCareer
 - 📫 How to reach me -vigneshwaranadm@gmail.com
 
 <!---
